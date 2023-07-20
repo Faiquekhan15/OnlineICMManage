@@ -1,0 +1,18 @@
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\bin\Debug\ONLINE ICM MANAGER.exe.config
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\bin\Debug\ONLINE ICM MANAGER.exe
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\bin\Debug\ONLINE ICM MANAGER.pdb
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\obj\Debug\TCP_Stream_Writer.MainForm.resources
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE ICM MANAGER.csproj.GenerateResource.Cache
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE ICM MANAGER.exe
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE ICM MANAGER.pdb
+C:\Users\Administrator\Desktop\ONLINE ICM MANAGER\bin\Debug\ONLINE ICM MANAGER.exe.config
+C:\Users\Administrator\Desktop\ONLINE ICM MANAGER\bin\Debug\ONLINE ICM MANAGER.exe
+C:\Users\Administrator\Desktop\ONLINE ICM MANAGER\bin\Debug\ONLINE ICM MANAGER.pdb
+C:\Users\Administrator\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE ICM MANAGER.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ONLINE ICM MANAGER\obj\Debug\TCP_Stream_Writer.MainForm.resources
+C:\Users\Administrator\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE ICM MANAGER.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE ICM MANAGER.exe
+C:\Users\Administrator\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE ICM MANAGER.pdb
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE ICM MANAGER.csprojResolveAssemblyReference.cache
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE_ICM_MANAGER.About.resources
+C:\Users\Faique\Desktop\ONLINE ICM MANAGER\obj\Debug\ONLINE_ICM_MANAGER.Helper.resources
