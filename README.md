@@ -28,7 +28,7 @@ Follow these steps to set up the project:
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/Transfopower-pvt-limited.git
+git clone https://github.com/Faiquekhan15/OnlineICMManage.git
 Usage
 Please read the README file in each sub-branch for specific usage instructions.
 
@@ -46,7 +46,7 @@ Issues
 If you encounter any issues with the project or have suggestions for improvements, please create a new issue with detailed information about the problem or suggestion.
 
 License
-This project is licensed under the MIT License. (You can use a different license if you prefer)
+This project is licensed under the MIT License. 
 
 Contact
 For any inquiries or further information, feel free to reach out to us at faique@transfopower.net.
