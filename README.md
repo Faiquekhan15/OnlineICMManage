@@ -18,10 +18,7 @@ Getting Started
 Prerequisites
 Before you begin, make sure you have the following software installed:
 
-1. NET 4.0
-2. ODBC 3.51
-3. MySQL 5.6
-4. Workbench 6.3
+1. NET 4.8
 Installation
 Follow these steps to set up the project:
 
